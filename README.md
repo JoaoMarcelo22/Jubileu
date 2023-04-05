@@ -8,7 +8,7 @@ Aqui se encontra diversos exemplos de atividades que fiz durante esse 1 ano de p
 </ul>
 <ul>
 <h4>FrameWork</h4>
-<li><strong>Next.js</strong></li>
+  <li><strong><a src='https://nextjs.org/'>Next.js</a></strong></li>
 <h4>language</h4>
 <li><strong>TypeScript</strong></li>
 </ul>
