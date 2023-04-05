@@ -7,8 +7,8 @@ Aqui se encontra diversos exemplos de atividades que fiz durante esse 1 ano de p
 <li><strong>Vercel</strong></li>
 </ul>
 <ul>
-<h4>FrameWork</42>
+<h4>FrameWork</h4>
 <li><strong>Next.js</strong></li>
-<42>language</42>
+<h4>language</h4>
 <li><strong>TypeScript</strong></li>
 </ul>
